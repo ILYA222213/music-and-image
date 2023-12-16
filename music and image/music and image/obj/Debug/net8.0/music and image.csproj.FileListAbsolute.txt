@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\music and image\music and image\bin\Debug\net8.0\music and image.exe
+C:\Users\ilruz\source\repos\music and image\music and image\bin\Debug\net8.0\music and image.deps.json
+C:\Users\ilruz\source\repos\music and image\music and image\bin\Debug\net8.0\music and image.runtimeconfig.json
+C:\Users\ilruz\source\repos\music and image\music and image\bin\Debug\net8.0\music and image.dll
+C:\Users\ilruz\source\repos\music and image\music and image\bin\Debug\net8.0\music and image.pdb
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\music and image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\music and image.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\music and image.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\music and image.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\music and image.dll
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\refint\music and image.dll
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\music and image.pdb
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\music and image.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\music and image\music and image\obj\Debug\net8.0\ref\music and image.dll
