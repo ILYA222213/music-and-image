@@ -24,7 +24,7 @@ internal class Program
         string nameWebsite1 = Console.ReadLine(); // Ввод пользователем ссылки для скачивания песни
 
         HttpResponseMessage response1 = await client1.GetAsync(nameWebsite1); // Выполнение HTTP GET запроса для получения песни
-        byte data1 = response1.Content.ReadAsByteArrayAsync().Result; // Чтение данных песни в виде массива байтов (используется результат синхронно)
+        byte data1 = response1.Content.ReadAsByteArrayAsync().Result; // Чтение данных песни в виде массива байтов 
 
         Console.WriteLine("Введите путь сохранения: ");
         string link1 = Console.ReadLine(); // Ввод пользователем пути для сохранения песни
